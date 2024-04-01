@@ -22,9 +22,9 @@ author: YangQinlong
 navbar-links:
   Call for Papers: "aboutme"
   Organization: "Organization"
-  Steering Committee: 
-  Program:
-  Dates: 
+  Steering Committee: "commit"
+  Program:  "program"
+  Dates: "datas"
 
 ################
 # --- Logo --- #
